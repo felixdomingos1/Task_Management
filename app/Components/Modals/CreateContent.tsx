@@ -149,7 +149,6 @@ const CreateContentStyled = styled.form`
 
   .input-control {
     position: relative;
-    margin: 1.6rem 0;
     font-weight: 500;
 
     @media screen and (max-width: 450px) {

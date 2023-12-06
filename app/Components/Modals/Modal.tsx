@@ -48,6 +48,7 @@ const ModalStyled = styled.div`
     position: relative;
     max-width: 630px;
     width: 100%;
+    height: 600px;
     z-index: 100;
 
     border-radius: 1rem;

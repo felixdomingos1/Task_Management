@@ -1,7 +1,3 @@
 {
-  "/api/tasks/route": "app/api/tasks/route.js",
-  "/completed/page": "app/completed/page.js",
-  "/page": "app/page.js",
-  "/important/page": "app/important/page.js",
-  "/incomplete/page": "app/incomplete/page.js"
+  "/page": "app/page.js"
 }

@@ -18,7 +18,7 @@ function TaskItem({ title, description, date, isCompleted, id }: Props) {
   return (
     <TaskItemStyled theme={theme}>
       <h1>{title}</h1>
-      <p>{description}</p>
+      <p className="description">{description}</p>
       <p className="date">{formatDate(date)}</p>
       <div className="task-footer">
         {isCompleted ? (
@@ -75,7 +75,15 @@ const TaskItemStyled = styled.div`
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
+  
+  .description{
+    max-width: 400px;
 
+  }
+  .description p{
+    max-width: 100%;
+    text-align: center;
+  }
   .date {
     margin-top: auto;
   }
