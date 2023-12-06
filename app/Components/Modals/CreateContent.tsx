@@ -149,13 +149,11 @@ const CreateContentStyled = styled.form`
 
   .input-control {
     position: relative;
-    margin: 1.6rem 0;
     font-weight: 500;
 
     @media screen and (max-width: 450px) {
       margin: 1rem 0;
     }
-
     label {
       margin-bottom: 0.5rem;
       display: inline-block;

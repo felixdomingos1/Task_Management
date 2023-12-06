@@ -23,7 +23,7 @@ module.exports = require("@prisma/client");
 
 /***/ }),
 
-/***/ "../../client/components/action-async-storage.external":
+/***/ "./action-async-storage.external":
 /*!*******************************************************************************!*\
   !*** external "next/dist/client/components/action-async-storage.external.js" ***!
   \*******************************************************************************/
@@ -33,7 +33,7 @@ module.exports = require("next/dist/client/components/action-async-storage.exter
 
 /***/ }),
 
-/***/ "../../client/components/request-async-storage.external":
+/***/ "./request-async-storage.external?3d59":
 /*!********************************************************************************!*\
   !*** external "next/dist/client/components/request-async-storage.external.js" ***!
   \********************************************************************************/
@@ -43,7 +43,7 @@ module.exports = require("next/dist/client/components/request-async-storage.exte
 
 /***/ }),
 
-/***/ "../../client/components/static-generation-async-storage.external":
+/***/ "./static-generation-async-storage.external?16bc":
 /*!******************************************************************************************!*\
   !*** external "next/dist/client/components/static-generation-async-storage.external.js" ***!
   \******************************************************************************************/
@@ -280,7 +280,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 var __webpack_require__ = require("../../../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, ["vendor-chunks/next","vendor-chunks/node-fetch-native","vendor-chunks/@clerk","vendor-chunks/@peculiar","vendor-chunks/asn1js","vendor-chunks/webcrypto-core","vendor-chunks/tslib","vendor-chunks/path-to-regexp","vendor-chunks/pvtsutils","vendor-chunks/pvutils","vendor-chunks/cookie","vendor-chunks/deepmerge","vendor-chunks/@swc","vendor-chunks/map-obj","vendor-chunks/no-case","vendor-chunks/lower-case","vendor-chunks/snake-case","vendor-chunks/dot-case"], () => (__webpack_exec__("(rsc)/./node_modules/next/dist/build/webpack/loaders/next-app-loader.js?name=app%2Fapi%2Ftasks%2Froute&page=%2Fapi%2Ftasks%2Froute&appPaths=&pagePath=private-next-app-dir%2Fapi%2Ftasks%2Froute.ts&appDir=%2Fhome%2Ffe%2FM%C3%BAsicas%2Ftodoapp_fullstack-master%2Fapp&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js&rootDir=%2Fhome%2Ffe%2FM%C3%BAsicas%2Ftodoapp_fullstack-master&isDev=true&tsconfigPath=tsconfig.json&basePath=&assetPrefix=&nextConfigOutput=&preferredRegion=&middlewareConfig=e30%3D!")));
+var __webpack_exports__ = __webpack_require__.X(0, ["vendor-chunks/next","vendor-chunks/node-fetch-native","vendor-chunks/@clerk","vendor-chunks/@peculiar","vendor-chunks/asn1js","vendor-chunks/webcrypto-core","vendor-chunks/tslib","vendor-chunks/path-to-regexp","vendor-chunks/pvtsutils","vendor-chunks/pvutils","vendor-chunks/js-cookie","vendor-chunks/glob-to-regexp","vendor-chunks/cookie","vendor-chunks/deepmerge","vendor-chunks/map-obj","vendor-chunks/no-case","vendor-chunks/lower-case","vendor-chunks/snakecase-keys","vendor-chunks/snake-case","vendor-chunks/dot-case"], () => (__webpack_exec__("(rsc)/./node_modules/next/dist/build/webpack/loaders/next-app-loader.js?name=app%2Fapi%2Ftasks%2Froute&page=%2Fapi%2Ftasks%2Froute&appPaths=&pagePath=private-next-app-dir%2Fapi%2Ftasks%2Froute.ts&appDir=%2Fhome%2Ffe%2FM%C3%BAsicas%2Ftodoapp_fullstack-master%2Fapp&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js&rootDir=%2Fhome%2Ffe%2FM%C3%BAsicas%2Ftodoapp_fullstack-master&isDev=true&tsconfigPath=tsconfig.json&basePath=&assetPrefix=&nextConfigOutput=&preferredRegion=&middlewareConfig=e30%3D!")));
 module.exports = __webpack_exports__;
 
 })();
