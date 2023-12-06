@@ -12,7 +12,7 @@ exports.id = "app/page";
 exports.ids = ["app/page"];
 exports.modules = {
 
-/***/ "../../client/components/action-async-storage.external":
+/***/ "./action-async-storage.external":
 /*!*******************************************************************************!*\
   !*** external "next/dist/client/components/action-async-storage.external.js" ***!
   \*******************************************************************************/
@@ -23,7 +23,7 @@ module.exports = require("next/dist/client/components/action-async-storage.exter
 
 /***/ }),
 
-/***/ "./request-async-storage.external":
+/***/ "./request-async-storage.external?93d0":
 /*!*****************************************************************************!*\
   !*** external "next/dist/client/components/request-async-storage.external" ***!
   \*****************************************************************************/
@@ -34,7 +34,7 @@ module.exports = require("next/dist/client/components/request-async-storage.exte
 
 /***/ }),
 
-/***/ "../../client/components/request-async-storage.external":
+/***/ "./request-async-storage.external?3d59":
 /*!********************************************************************************!*\
   !*** external "next/dist/client/components/request-async-storage.external.js" ***!
   \********************************************************************************/
@@ -45,7 +45,7 @@ module.exports = require("next/dist/client/components/request-async-storage.exte
 
 /***/ }),
 
-/***/ "./static-generation-async-storage.external":
+/***/ "./static-generation-async-storage.external?d822":
 /*!***************************************************************************************!*\
   !*** external "next/dist/client/components/static-generation-async-storage.external" ***!
   \***************************************************************************************/
@@ -56,7 +56,7 @@ module.exports = require("next/dist/client/components/static-generation-async-st
 
 /***/ }),
 
-/***/ "../../client/components/static-generation-async-storage.external":
+/***/ "./static-generation-async-storage.external?16bc":
 /*!******************************************************************************************!*\
   !*** external "next/dist/client/components/static-generation-async-storage.external.js" ***!
   \******************************************************************************************/
@@ -726,7 +726,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, ["vendor-chunks/next","vendor-chunks/node-fetch-native","vendor-chunks/@clerk","vendor-chunks/axios","vendor-chunks/@peculiar","vendor-chunks/asynckit","vendor-chunks/@swc","vendor-chunks/swr","vendor-chunks/prop-types","vendor-chunks/@emotion","vendor-chunks/tslib","vendor-chunks/use-sync-external-store","vendor-chunks/react-is","vendor-chunks/nextjs-toploader","vendor-chunks/mime-db","vendor-chunks/js-cookie","vendor-chunks/glob-to-regexp","vendor-chunks/follow-redirects","vendor-chunks/react-hot-toast","vendor-chunks/goober","vendor-chunks/stylis","vendor-chunks/styled-components","vendor-chunks/shallowequal","vendor-chunks/proxy-from-env","vendor-chunks/object-assign","vendor-chunks/nprogress","vendor-chunks/webcrypto-core","vendor-chunks/snakecase-keys","vendor-chunks/snake-case","vendor-chunks/pvutils","vendor-chunks/pvtsutils","vendor-chunks/path-to-regexp","vendor-chunks/no-case","vendor-chunks/map-obj","vendor-chunks/lower-case","vendor-chunks/dot-case","vendor-chunks/deepmerge","vendor-chunks/cookie","vendor-chunks/asn1js","vendor-chunks/moment","vendor-chunks/mime-types","vendor-chunks/delayed-stream","vendor-chunks/combined-stream"], () => (__webpack_exec__("(rsc)/./node_modules/next/dist/build/webpack/loaders/next-app-loader.js?name=app%2Fpage&page=%2Fpage&appPaths=%2Fpage&pagePath=private-next-app-dir%2Fpage.tsx&appDir=%2Fhome%2Ffe%2FM%C3%BAsicas%2Ftodoapp_fullstack-master%2Fapp&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js&rootDir=%2Fhome%2Ffe%2FM%C3%BAsicas%2Ftodoapp_fullstack-master&isDev=true&tsconfigPath=tsconfig.json&basePath=&assetPrefix=&nextConfigOutput=&preferredRegion=&middlewareConfig=e30%3D!")));
+var __webpack_exports__ = __webpack_require__.X(0, ["vendor-chunks/next","vendor-chunks/node-fetch-native","vendor-chunks/@clerk","vendor-chunks/@peculiar","vendor-chunks/asn1js","vendor-chunks/webcrypto-core","vendor-chunks/tslib","vendor-chunks/path-to-regexp","vendor-chunks/pvtsutils","vendor-chunks/pvutils","vendor-chunks/js-cookie","vendor-chunks/glob-to-regexp","vendor-chunks/cookie","vendor-chunks/deepmerge","vendor-chunks/map-obj","vendor-chunks/no-case","vendor-chunks/lower-case","vendor-chunks/snakecase-keys","vendor-chunks/snake-case","vendor-chunks/dot-case","vendor-chunks/moment","vendor-chunks/mime-db","vendor-chunks/axios","vendor-chunks/swr","vendor-chunks/styled-components","vendor-chunks/prop-types","vendor-chunks/follow-redirects","vendor-chunks/nprogress","vendor-chunks/stylis","vendor-chunks/react-hot-toast","vendor-chunks/use-sync-external-store","vendor-chunks/asynckit","vendor-chunks/react-is","vendor-chunks/@emotion","vendor-chunks/combined-stream","vendor-chunks/nextjs-toploader","vendor-chunks/mime-types","vendor-chunks/proxy-from-env","vendor-chunks/@swc","vendor-chunks/delayed-stream","vendor-chunks/goober","vendor-chunks/object-assign","vendor-chunks/shallowequal"], () => (__webpack_exec__("(rsc)/./node_modules/next/dist/build/webpack/loaders/next-app-loader.js?name=app%2Fpage&page=%2Fpage&appPaths=%2Fpage&pagePath=private-next-app-dir%2Fpage.tsx&appDir=%2Fhome%2Ffe%2FM%C3%BAsicas%2Ftodoapp_fullstack-master%2Fapp&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js&rootDir=%2Fhome%2Ffe%2FM%C3%BAsicas%2Ftodoapp_fullstack-master&isDev=true&tsconfigPath=tsconfig.json&basePath=&assetPrefix=&nextConfigOutput=&preferredRegion=&middlewareConfig=e30%3D!")));
 module.exports = __webpack_exports__;
 
 })();
