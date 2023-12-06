@@ -154,7 +154,6 @@ const CreateContentStyled = styled.form`
     @media screen and (max-width: 450px) {
       margin: 1rem 0;
     }
-
     label {
       margin-bottom: 0.5rem;
       display: inline-block;
